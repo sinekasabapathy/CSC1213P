@@ -1,0 +1,21 @@
+Date :12.03.2025
+
+Practical Number :01
+
+Problem Specification :Print "My First programmne in Java" and Hello Java Developers!!!
+
+Implemention : 
+class MyFirstJavaProgram
+{
+	public static void main(String[]args)
+	{
+		System.out.println("My First programmne in Java");
+		System.out.println("Hello Java Developers!!!");
+	}
+}
+
+Output :
+My First programmne in Java
+Hello Java Developers!!!
+
+Conclusion :I learnt how to print out put
