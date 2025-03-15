@@ -1,0 +1,52 @@
+Date:12.03.2025
+
+Practical Number:03
+
+Problem Specification:Declare and Intialization of the variables.
+
+Implementation:
+class My3rdProgram
+{
+	public static void main(String[]args)
+	{
+		boolean isBool=true;
+		System.out.println("boolan :"+isBool);
+		
+		byte ByteVal=120;
+		System.out.println("Byte :"+ ByteVal);
+		
+		int IntVal=1;
+		System.out.println("Interger :"+IntVal);
+		
+		short ShortVal=14569;
+		System.out.println("Short :"+ShortVal);
+		
+		long LongVal=10000;
+		System.out.println("Long :"+LongVal);
+		
+		float FloatVal=19.56f;
+		System.out.println("Float :"+FloatVal);
+		
+		double DoubleVal=169.456;
+		System.out.println("Double:"+DoubleVal);
+		
+		char Charval='a';
+		System.out.println("Char :"+Charval);
+		
+		char Charvall='\u0064';
+		System.out.println("Char :"+Charvall);
+	}
+}
+
+Output:
+boolan :true
+Byte :120
+Interger :1
+Short :14569
+Long :10000
+Float :19.56
+Double:169.456
+Char :a
+Char :d
+
+Conclusion:We have understood the program in java to declare and Intialization of the variables.
