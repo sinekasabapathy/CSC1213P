@@ -1,0 +1,36 @@
+Date:12.03.2025
+
+Practical Number:06
+
+Problem Specification: How to Add,sub,mul,dev and mod in two variables.
+
+Implementation:
+class EX06
+{
+	public static void main(String[]args)
+	{
+		int a=10;
+		int b=5;
+		
+		int add=a+b;
+		int sub=a-b;
+		double mul=a*b;
+		double dev=a/b;
+		double mod=a%b;
+		
+		System.out.println("Addition = "+add);
+		System.out.println("Subration = "+sub);
+		System.out.println("multiplication = "+mul);
+		System.out.println("division = "+dev);
+		System.out.println("module = "+mod);
+	}
+}
+
+Output:
+Addition = 15
+Subration = 5
+multiplication = 50.0
+division = 2.0
+module = 0.0
+
+Conclusion:I learnt how to use operator in java progaram.
